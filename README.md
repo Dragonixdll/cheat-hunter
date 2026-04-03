@@ -1,4 +1,4 @@
-# cheat-hunter
+# Cheat-hunter
 Advanced Windows forensic scanner for detecting cheats, and anti-forensic tools
 
 ##  Core Features
